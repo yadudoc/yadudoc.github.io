@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Assimilate my thoughts</title>
+ <link href="http://yadudoc.github.io/" rel="self"/>
+ <link href="http://yadudoc.github.io"/>
+ <updated>2013-10-20T18:32:21-05:00</updated>
+ <id>http://yadudoc.github.io</id>
+ <author>
+   <name>Yadu Nand Babuji</name>
+   <email>ynandb@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>

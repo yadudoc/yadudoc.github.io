@@ -1,0 +1,9 @@
+
+http://yadudoc.github.io/pages.html
+http://yadudoc.github.io/sitemap.txt
+http://yadudoc.github.io/rss.xml
+http://yadudoc.github.io/archive.html
+http://yadudoc.github.io/categories.html
+http://yadudoc.github.io/atom.xml
+http://yadudoc.github.io/tags.html
+http://yadudoc.github.io/index.html
