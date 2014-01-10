@@ -23,5 +23,11 @@ and my learning from this endeavour.
 
 Yes, I made the newbie mistake of watching the charts after my Bitcoins arrived in the wallet
 for price drops and panic sold. "Sell high, buy low" is not as easy to follow through with
-money and emotions involved. I've learned to discipline myself by writing down rules and conditions
-at which I would either buy or sell. 
+money and emotions involved. So far the most valuable skills I've learnt would be:
+
+- Removing emotion from trades. Always plan ahead, and stick with the plan.
+- Money management. Limit risk, by limiting potential profits.
+- Keeping track of metrics.
+- Learn a trading strategy and stick with it, each strategy has it's own strengths and weaknesses.
+
+
