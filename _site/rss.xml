@@ -5,10 +5,66 @@
         <description>Assimilate my thoughts - Yadu Nand Babuji</description>
         <link>http://yadudoc.github.io</link>
         <link>http://yadudoc.github.io</link>
-        <lastBuildDate>2013-10-22T01:07:54-05:00</lastBuildDate>
-        <pubDate>2013-10-22T01:07:54-05:00</pubDate>
+        <lastBuildDate>2014-01-04T21:48:55-06:00</lastBuildDate>
+        <pubDate>2014-01-04T21:48:55-06:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Change</title>
+                <description>&lt;p&gt;An exciting year has passed. Here&amp;#8217;s the gist of it.&lt;/p&gt;
+
+&lt;p&gt;I quit my job at HP. I worked remotely while I waited for my visa and figured out that working remotely is not always a good idea. Flew out to Chicago, explored the city and met some fun people. Argonne and UChicago turned out to be every bit as exciting as I imagined them to be. Surprisingly, supercomputers turned out to be like airplanes, not as exciting the second time. I enjoy my job, it is fun and challenging like I want it to be. So far, my only gripe with this place is the winter.&lt;/p&gt;
+
+&lt;p&gt;I spent months reading and digesting the content on LessWrong, especially the &lt;a href='http://wiki.lesswrong.com/wiki/Sequences'&gt;sequences&lt;/a&gt;. These have had a profound impact on the way I think, and I believe the time spent was well worth it. I do not think I&amp;#8217;m nearly the Bayesian enlightened rationalist that I would like to be, and it continues to remain on my todo-list.&lt;/p&gt;
+
+&lt;p&gt;Then I got into Bitcoin, stocks and algorithmic trading. I went down the rabbit hole of backtesting and optimising. Some of the code is on my repo &lt;a href='https://github.com/yadudoc/Number6'&gt;Number6&lt;/a&gt;, which I believe does a good job of testing EMA cross strategies on MtGox&amp;#8217;s historical data. There&amp;#8217;s a lot more to learn here, and definitely ton more to profit from.&lt;/p&gt;
+
+&lt;p&gt;My younger brother got a job in the field he wants to be in, and I feel proud of that. I learnt the hard way that staying away from friends and family is hard, and I&amp;#8217;m not as tough and solitary as I thought myself to be. Skype and chat only goes so far.&lt;/p&gt;
+
+&lt;p&gt;I look back at the year that has passed, and I feel that there is a lot more that could&amp;#8217;ve been done, but it was good one nevertheless.&lt;/p&gt;
+
+&lt;p&gt;There is a road ahead, a road of my choosing and I look forward to see where it leads.&lt;/p&gt;</description>
+                <link>http://yadudoc.github.io/life,%20recap/2014/01/02/change</link>
+                <guid>http://yadudoc.github.io/life,%20recap/2014/01/02/change</guid>
+                <pubDate>2014-01-02T00:00:00-06:00</pubDate>
+        </item>
+
+        <item>
+                <title>First month trading bitcoin</title>
+                <description>&lt;p&gt;I used to mess with ad-hoc distributed systems in college and I remember checking out bitcoin mining as a test application. That plan never materialised and I had forgotten all bitcoin for a while. With the flurry of media coverage over Silkroad shutdown , bitcoin was in the spotlight. Soon, I got an account verified with &lt;a href='https://coinbase.com'&gt;Coinbase&lt;/a&gt; and what a wonderful month it has been. Previous all time high has been broken, prices seem to be comparitively stabler, Bitcoin China exchange opened the floodgates for chinese investors and there is a bitcoin ATM in Canada.&lt;/p&gt;
+
+&lt;p&gt;I am not going to write about the risks and potential of Bitcoin, topics which have been debated over in great length. Instead I would write about my first month as a newly minted investor. This is the first time I&amp;#8217;ve invested money and I would like to note my mistakes and my learning from this endeavour.&lt;/p&gt;
+
+&lt;p&gt;Yes, I made the newbie mistake of watching the charts after my Bitcoins arrived in the wallet for price drops and panic sold. &amp;#8220;Sell high, buy low&amp;#8221; is not as easy to follow through with money and emotions involved. I&amp;#8217;ve learned to discipline myself by writing down rules and conditions at which I would either buy or sell.&lt;/p&gt;</description>
+                <link>http://yadudoc.github.io/2013/11/08/first-month-trading-bitcoin</link>
+                <guid>http://yadudoc.github.io/2013/11/08/first-month-trading-bitcoin</guid>
+                <pubDate>2013-11-08T00:00:00-06:00</pubDate>
+        </item>
+
+        <item>
+                <title>Bitcoin, challenges</title>
+                <description>&lt;p&gt;I&amp;#8217;m not going to write about the future of bitcoin as a currency, a store of value, its market penetration. Instead this is about the shortcomings of the Bitcoin exchanges. I would like to point out a few issues that I&amp;#8217;ve seen, in the short span I&amp;#8217;ve spent trading Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;MtGox happens to be the exchange most frequently used by traders. This is reflected in the volume and also the ability to influence other exchanges strongly. Despite having been around for over 3 years, and holding real cash, MtGox has several flaws.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It gets DDoS&amp;#8217;ed easily.&lt;/li&gt;
+
+&lt;li&gt;It is easily overrun during panic sells.&lt;/li&gt;
+
+&lt;li&gt;It next to impossible to get USD out of MtGox.&lt;/li&gt;
+
+&lt;li&gt;Horrible lag during busy sessions.&lt;/li&gt;
+
+&lt;li&gt;Without notice, puts trading on hold.&lt;/li&gt;
+
+&lt;li&gt;No facility to short bitcoin.&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>http://yadudoc.github.io/2013/10/24/bitcoin-challenges</link>
+                <guid>http://yadudoc.github.io/2013/10/24/bitcoin-challenges</guid>
+                <pubDate>2013-10-24T00:00:00-05:00</pubDate>
+        </item>
 
 
 </channel>
