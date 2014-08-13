@@ -11,7 +11,7 @@ tagline: It's a happy accident!
 
 Hi! I am a Programmer working at the Computation Institute, University of Chicago
 and (occasionally at) Argonne National Lab.
-I work on a parallel scripting language called [Swift](http://swift-lang.org/).
+I work on the [Swift: Parallel scripting language](http://swift-lang.org/).
 
 I like to think about why I think the way I think. I find it fascinating that the
 mind and thought arise from seemingly chaotic and mostly unpredictable misfirings of neurons.<br/>
