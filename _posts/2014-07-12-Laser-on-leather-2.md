@@ -26,11 +26,10 @@ I decided that a separate pouch for the key would make the wallet asymmetric and
 The dimensions are dictated by the contents the wallet would carry. The width of the wallet is the width of the dollar bill plus allowances.
 The breadth should be twice the width of a standard CC (85.60mm) with allowance for the gap in the middle.
 Initially I put in 2mm wide slanted slits with a separation of 2mm to guide the stitching, which ended being too close.
-In the second iteration, I increased the separation to 4mm which I think is just perfect. You can get the illustrator file I used from [here]({{ site.url }}/assets/wallet-template-2.ai)
+In the second iteration, I increased the separation to 4mm which I think is just perfect. You can get the illustrator file I used from [here]({{ site.url }}/assets/wallet-template-2.ai).
 
 Here's some snaps along the way:
 
-</br>
 On the laser cutter/engraver. The bright light is from the laser burning through the leather; smells nasty!
 
 <div style="float: left margin: auto" >
