@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Misfiring neurons
-tagline: It's a happy accident!
+title: Meditations
+tagline: Mind, Matter, and Software
 ---
 {% include JB/setup %}
 
