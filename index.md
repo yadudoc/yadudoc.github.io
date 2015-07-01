@@ -10,13 +10,12 @@ tagline: Mind, Matter, and Software
 </div>
 
 Hi! I am a Programmer working at the Computation Institute, University of Chicago
-and (occasionally at) Argonne National Lab.
-I work on the [Swift: Parallel scripting language](http://swift-lang.org/).
+and Argonne National Lab. I work on an implicitly parallel programming language most
+commonly used for running computational workflows-[Swift: Parallel scripting language](http://swift-lang.org/).
 
-I like to think about why I think the way I think. I find it fascinating that the
-mind and thought arise from seemingly chaotic and mostly unpredictable misfirings of neurons.<br/>
-Many thoughts make little sense when examined closely, and the process of writing them
-down helps filter those that of no value.
+I like to look for patterns in the sea of random thoughts that comprise me.
+Up close thoughts are like fish caught barehanded, they squirm till they break free.
+Writing them down is the closest to really bagging them. You start to see what thoughts were of no value, and
+which ones are worth sharing.
 
-This would be a record of my thoughts on ideas I find interesting like sci-fi, thought-experiments
-and my active projects.
+This is the bag of freshly caught fish. If you haven't noticed already I suck at metaphors, and often beat them to death.
