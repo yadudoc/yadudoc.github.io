@@ -7,6 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
+[Not proofread]
+
 Human beings are lacking in the apparatus to harvest the most abundant source of energy on the Planet. Most organisms including us, ultimately depend on plant life to do this. We happen to be able to consume both plant life as well other organisms for sustenance.
 
 The issue is that we have a choice on where our food comes from and some are not quite as ethical as the others. We could sustain ourselves by consuming meat for other human beings but cannibalism is considered terrible in most cultures/societies even when cannibalism is common amongst several species in nature. In western cultures we typically don't eat animals we keep as pets, such as dogs and cats. I think that we have some difficulty with the concept of killing
