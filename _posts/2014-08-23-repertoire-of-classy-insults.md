@@ -23,3 +23,4 @@ Scraped from reddit for the most part:
 
 "I refuse to have a batle of wits against an unarmed opponent"
 
+"Oh honey, you are not pretty enough to be that stupid"

@@ -1,13 +1,23 @@
 
-http://yadudoc.github.io/archive.html
+http://yadudoc.github.io/archive
 http://yadudoc.github.io/atom.xml
-http://yadudoc.github.io/categories.html
-http://yadudoc.github.io/index.html
-http://yadudoc.github.io/pages.html
+http://yadudoc.github.io/categories
+http://yadudoc.github.io/
+http://yadudoc.github.io/pages
 http://yadudoc.github.io/rss.xml
 http://yadudoc.github.io/sitemap.txt
-http://yadudoc.github.io/tags.html
+http://yadudoc.github.io/tags
 
+http://yadudoc.github.io/2015/09/08/break-fail-shatter
+http://yadudoc.github.io/2015/08/13/decision
+http://yadudoc.github.io/2015/08/11/story
+http://yadudoc.github.io/2015/08/06/the-value-of-others
+http://yadudoc.github.io/2015/07/22/giant-blazing-ball-of-fire
+http://yadudoc.github.io/2015/06/30/ethics-of-food
+http://yadudoc.github.io/life/2015/06/29/rent
+http://yadudoc.github.io/life/2015/06/23/solitude
+http://yadudoc.github.io/2015/06/03/on-boredom
+http://yadudoc.github.io/2015/02/17/darmok-and-jalad-at-tanagra
 http://yadudoc.github.io/2014/12/18/legacy
 http://yadudoc.github.io/2014/09/02/becalmed
 http://yadudoc.github.io/2014/08/23/repertoire-of-classy-insults
@@ -15,4 +25,4 @@ http://yadudoc.github.io/2014/08/08/Paper-planes
 http://yadudoc.github.io/2014/07/12/Laser-on-leather-2
 http://yadudoc.github.io/2014/07/05/Laser-on-leather-1
 http://yadudoc.github.io/2013/11/08/first-month-trading-bitcoin
-http://yadudoc.github.io/2013/01/17/What_am_I%3F
+http://yadudoc.github.io/2013/01/17/What_am_I
